@@ -4,7 +4,7 @@ import csv
 import pandas as pd
 from slugify import slugify
 
-file_name_base = 'feed.sample'
+file_name_base = 'feed'
 
 usecols=[
 		'Sku',
