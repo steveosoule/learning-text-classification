@@ -1,0 +1,1 @@
+curl https://www.borsheims.com/godatafeed/godatafeed.csv -o feed.csv
